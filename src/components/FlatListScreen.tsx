@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
   },
   textContainer: {
     position: 'absolute',
-    bottom: 40, // Ajusta la posición vertical del texto
+    bottom: 30,
     left: 0,
     right: 0,
     justifyContent: 'center',
